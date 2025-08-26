@@ -11,6 +11,6 @@ Focused on **testnet contributions and validator setups**.
 ## 🚀 Featured Projects
 - [Dockerized ETH Node] 
 - [Validator Scripts]  
-- [Node Monitor Dashboard] 
+- [Node Monitor Dashboard](https://github.com/k-none/node-monitor-dashboard) 
 
   
