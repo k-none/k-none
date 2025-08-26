@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm a Blockchain Node Operator  
 
-<!--
-**k-none/k-none** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run and maintain blockchain infrastructure, validators, and monitoring systems.  
+Focused on **testnet contributions and validator setups**.  
 
-Here are some ideas to get you started:
+## ⚙️ Skills
+- Ethereum / Cosmos validator setup  
+- Docker, Ansible, Kubernetes  
+- Node monitoring & dashboards  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [Dockerized ETH Node](working...)  
+- [Validator Scripts](working...)  
+- [Node Monitor Dashboard](working...)  
+
+  
