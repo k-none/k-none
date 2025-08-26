@@ -9,8 +9,8 @@ Focused on **testnet contributions and validator setups**.
 - Node monitoring & dashboards  
 
 ## 🚀 Featured Projects
-- [Dockerized ETH Node](working...)  
-- [Validator Scripts](working...)  
-- [Node Monitor Dashboard](working...)  
+- [Dockerized ETH Node] 
+- [Validator Scripts]  
+- [Node Monitor Dashboard] 
 
   
