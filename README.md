@@ -8,9 +8,9 @@ Focused on **testnet contributions and validator setups**.
 - Docker, Ansible, Kubernetes  
 - Node monitoring & dashboards  
 
-## 🚀 Featured Projects
-- [Dockerized ETH Node] 
-- [Validator Scripts]  
+## 🚀 Featured Projects  
+- [Solidity-Fundamentals](https://github.com/k-none/Solidity-Fundamentals)
 - [Node Monitor Dashboard](https://github.com/k-none/node-monitor-dashboard) 
-
+- [Dockerized ETH Node] 
+- [Validator Scripts]
   
