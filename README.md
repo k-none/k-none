@@ -10,7 +10,6 @@ Focused on **testnet contributions and validator setups**.
 
 ## 🚀 Featured Projects  
 - [Solidity-Fundamentals](https://github.com/k-none/Solidity-Fundamentals)
+- [Sepolia-DApp-JK-INR-WETH](https://github.com/k-none/Sepolia-DApp-JK-INR-WETH)
 - [Node Monitor Dashboard](https://github.com/k-none/node-monitor-dashboard) 
-- [Dockerized ETH Node] 
-- [Validator Scripts]
-  
+
